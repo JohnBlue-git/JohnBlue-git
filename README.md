@@ -5,7 +5,7 @@
 
 <h3 align="left">Web related:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BoostLibWebApi )](https://github.com/JohnBlue-git/BoostLibWebApi )
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BoostLibWebApi )](https://github.com/JohnBlue-git/BoostLibWebApi)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=PlayerRecordWebApi)](https://github.com/JohnBlue-git/PlayerRecordWebApi)
 
@@ -123,7 +123,9 @@
     </p>
 </p>
 
-<p align="left">Generated via</p>
-<p align="left"><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">Anuraghazra's Github-Readme-Stats</a></p>
-<p align="left">&</p>
-<p align="left"><a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="_blank" rel="noreferrer">Rahuldkjain's GH-Profile-Readme-Generator</a></p>
+<p align="left">
+    <p>Generated via </p>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">Anuraghazra's Github-Readme-Stats</a>
+    <p> & </p>
+    <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="_blank" rel="noreferrer">Rahuldkjain's GH-Profile-Readme-Generator</a>
+</p>
