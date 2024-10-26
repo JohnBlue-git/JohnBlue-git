@@ -1,48 +1,44 @@
 <h1 align="center">Hi 👋, I'm JohnBlue</h1>
 <h3 align="center">I am a software engineer from Taiwan</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+
 
 <h3 align="left">Web related:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BoostLibWebApi )](https://github.com/JohnBlue-git/BoostLibWebApi)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=PlayerRecordWebApi)](https://github.com/JohnBlue-git/PlayerRecordWebApi)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ChessBoardGameWeb)](https://github.com/JohnBlue-git/ChessBoardGameWeb)
+<a href="https://github.com/JohnBlue-git/BoostLibWebApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=BoostLibWebApi" />
+</a>
+<a href="https://github.com/JohnBlue-git/PlayerRecordWebApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=PlayerRecordWebApi" />
+</a>
+<a href="https://github.com/JohnBlue-git/ChessBoardGameWeb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ChessBoardGameWeb" />
+</a>
 
 
 
 <h3 align="left">Thread programming related:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ConcurrencyDemo)](https://github.com/JohnBlue-git/ConcurrencyDemo)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Socket_Transmission-Speed-Test)](https://github.com/JohnBlue-git/Socket_Transmission-Speed-Test)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Process-Thread-Sync_Note)](https://github.com/JohnBlue-git/Process-Thread-Sync_Note)
-
-
-
-<h3 align="left">Build script related:</h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Meson_GoogleTest)](https://github.com/JohnBlue-git/Meson_GoogleTest)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CMake_GoogleTest)](https://github.com/JohnBlue-git/CMake_GoogleTest)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CMake_Variable_Note)](https://github.com/JohnBlue-git/CMake_Variable_Note)
+<a href="https://github.com/JohnBlue-git/ConcurrencyDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ConcurrencyDemo" />
+</a>
+<a href="https://github.com/JohnBlue-git/Socket_Transmission-Speed-Test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Socket_Transmission-Speed-Test" />
+</a>
+<a href="https://github.com/JohnBlue-git/Process-Thread-Sync_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Process-Thread-Sync_Note" />
+</a>
 
 
 
 <h3 align="left">Linux related:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToYocto)](https://github.com/JohnBlue-git/HowToYocto)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Linux_Note)](https://github.com/JohnBlue-git/Linux_Note)
+<a href="https://github.com/JohnBlue-git/HowToYocto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=HowToYocto" />
+</a>
+<a href="https://github.com/JohnBlue-git/Linux_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Linux_Note />
+</a>
 
 
 
