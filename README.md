@@ -6,13 +6,13 @@
 <h3 align="left">Web related:</h3>
 
 <a href="https://github.com/JohnBlue-git/BoostLibWebApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=BoostLibWebApi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBllue-git&repo=BoostLibWebApi" />
 </a>
 <a href="https://github.com/JohnBlue-git/PlayerRecordWebApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=PlayerRecordWebApi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBllue-git&repo=PlayerRecordWebApi" />
 </a>
 <a href="https://github.com/JohnBlue-git/ChessBoardGameWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ChessBoardGameWeb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBllue-git&repo=ChessBoardGameWeb" />
 </a>
 
 
