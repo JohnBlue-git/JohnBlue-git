@@ -6,13 +6,13 @@
 <h3 align="left">Web related:</h3>
 
 <a href="https://github.com/JohnBlue-git/BoostLibWebApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBllue-git&repo=BoostLibWebApi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BoostLibWebApi" />
 </a>
 <a href="https://github.com/JohnBlue-git/PlayerRecordWebApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBllue-git&repo=PlayerRecordWebApi" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=PlayerRecordWebApi" />
 </a>
 <a href="https://github.com/JohnBlue-git/ChessBoardGameWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBllue-git&repo=ChessBoardGameWeb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ChessBoardGameWeb" />
 </a>
 
 
@@ -37,7 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=HowToYocto" />
 </a>
 <a href="https://github.com/JohnBlue-git/Linux_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Linux_Note />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Linux_Note" />
 </a>
 
 
