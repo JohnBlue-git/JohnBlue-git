@@ -20,13 +20,13 @@
 <h3 align="left">Thread programming related:</h3>
 
 <a href="https://github.com/JohnBlue-git/ConcurrencyDemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=ConcurrencyDemo" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ConcurrencyDemo" />
 </a>
 <a href="https://github.com/JohnBlue-git/Socket_Transmission-Speed-Test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Socket_Transmission-Speed-Test" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Socket_Transmission-Speed-Test" />
 </a>
 <a href="https://github.com/JohnBlue-git/Process-Thread-Sync_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Process-Thread-Sync_Note" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Process-Thread-Sync_Note" />
 </a>
 
 
@@ -34,10 +34,10 @@
 <h3 align="left">Linux related:</h3>
 
 <a href="https://github.com/JohnBlue-git/HowToYocto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=HowToYocto" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToYocto" />
 </a>
 <a href="https://github.com/JohnBlue-git/Linux_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Linux_Note" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Linux_Note" />
 </a>
 
 
