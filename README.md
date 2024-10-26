@@ -124,8 +124,8 @@
 </p>
 
 <p align="left">
-    <p>Generated via </p>
+    Generated via
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">Anuraghazra's Github-Readme-Stats</a>
-    <p> & </p>
+     & 
     <a href="https://rahuldkjain.github.io/gh-profile-readme-generator" target="_blank" rel="noreferrer">Rahuldkjain's GH-Profile-Readme-Generator</a>
 </p>
