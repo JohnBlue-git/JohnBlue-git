@@ -22,8 +22,8 @@
 <a href="https://github.com/JohnBlue-git/ConcurrencyDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ConcurrencyDemo" />
 </a>
-<a href="https://github.com/JohnBlue-git/Socket_Transmission-Speed-Test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Socket_Transmission-Speed-Test" />
+<a href="https://github.com/JohnBlue-git/Transmission-Speed-Test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Transmission-Speed-Test" />
 </a>
 <a href="https://github.com/JohnBlue-git/Process-Thread-Sync_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Process-Thread-Sync_Note" />
