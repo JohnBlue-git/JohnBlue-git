@@ -79,7 +79,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     </a>
     <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-        <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" alt="cmake" width="40" height="40"/>
+        <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" alt="cmake" width="120" height="40"/>
     </a>
     <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer">
         <img src="https://mesonbuild.com/assets/images/meson_logo.png" alt="meson" width="40" height="40"/>
