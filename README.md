@@ -78,12 +78,12 @@
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
     </a>
-</p>
-<p align="left">still finding pictures ...</p>
-<p align="left">
-    <p align="left">
-    cmake, meson
-    </p>
+    <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+        <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" alt="cmake" width="40" height="40"/>
+    </a>
+    <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer">
+        <img src="https://mesonbuild.com/assets/images/meson_logo.png" alt="meson" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Databases:</h3>
@@ -123,12 +123,12 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-</p>
-<p align="left">still finding pictures ...</p>
-<p align="left">
-    <p align="left">
-    yocto, openBMC
-    </p>
+    <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/openbmc/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/13670043?s=200&v=4" alt="linux" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">
