@@ -8,6 +8,9 @@
 <a href="https://github.com/JohnBlue-git/BoostAsioWebApi-VersionOne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BoostAsioWebApi-VersionOne" />
 </a>
+<a href="https://github.com/JohnBlue-git/NodejsWebApi-VersionOne">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=NodejsWebApi-VersionOne" />
+</a>
 <a href="https://github.com/JohnBlue-git/NodejsWebApi-VersionZero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=NodejsWebApi-VersionZero" />
 </a>
