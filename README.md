@@ -5,6 +5,9 @@
 
 <h3 align="left">Web related:</h3>
 
+<a href="https://github.com/JohnBlue-git/HowToBoostAsio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToBoostAsio" />
+</a>
 <a href="https://github.com/JohnBlue-git/BoostAsioWebApi-VersionOne">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BoostAsioWebApi-VersionOne" />
 </a>
