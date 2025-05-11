@@ -40,10 +40,19 @@
 
 
 
-<h3 align="left">Linux and Build System related:</h3>
+<h3 align="left">Linux / DBus / Git / Build System / ... related:</h3>
 
 <a href="https://github.com/JohnBlue-git/Linux_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Linux_Note" />
+</a>
+<a href="https://github.com/JohnBlue-git/Systemctl_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Systemctl_Note" />
+</a>
+<a href="https://github.com/JohnBlue-git/Git_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Git_Note" />
+</a>
+<a href="https://github.com/JohnBlue-git/HowToRepoGit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToRepoGit" />
 </a>
 <a href="https://github.com/JohnBlue-git/BuildSystem_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
@@ -56,6 +65,12 @@
 </a>
 <a href="https://github.com/JohnBlue-git/HowToDBus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToDBus" />
+</a>
+<a href="https://github.com/JohnBlue-git/GetServiceStatus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=GetServiceStatus" />
+</a>
+<a href="https://github.com/JohnBlue-git/MyTarPackageScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=MyTarPackageScript" />
 </a>
 
 
