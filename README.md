@@ -154,7 +154,7 @@
         <img src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg" alt="linux" width="40" height="40"/>
     </a>
     <a href="https://github.com/openbmc/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/13670043?s=200&v=4" alt="linux" width="40" height="40"/>
+        <img src="https://avatars.githubusercontent.com/u/13670043?s=200&v=4" alt="linux" width="40" height="160"/>
     </a>
 </p>
 
