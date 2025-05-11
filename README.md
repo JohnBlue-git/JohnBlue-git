@@ -109,7 +109,7 @@
         <img src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg" alt="cmake" width="120" height="40"/>
     </a>
     <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer">
-        <img src="https://mesonbuild.com/assets/images/meson_logo.png](https://slaptijack.com/images/logos/meson.png" alt="meson" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Meson_%28software%29_logo_2019.svg/2560px-Meson_%28software%29_logo_2019.svg.png" alt="meson" width="40" height="40"/>
     </a>
 </p>
 
