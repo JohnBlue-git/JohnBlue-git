@@ -66,9 +66,6 @@
 <a href="https://github.com/JohnBlue-git/HowToDBus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToDBus" />
 </a>
-<a href="https://github.com/JohnBlue-git/GetServiceStatus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=GetServiceStatus" />
-</a>
 
 
 
