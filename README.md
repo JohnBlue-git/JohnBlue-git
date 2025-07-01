@@ -17,6 +17,9 @@
 <a href="https://github.com/JohnBlue-git/NodejsWebApi-VersionZero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=NodejsWebApi-VersionZero" />
 </a>
+<a href="https://github.com/JohnBlue-git/K8s-Flask-Postgres">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=K8s-Flask-Postgres" />
+</a>
 <a href="https://github.com/JohnBlue-git/PlayerRecordWebApi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=PlayerRecordWebApi" />
 </a>
@@ -76,6 +79,9 @@
 </a>
 <a href="https://github.com/JohnBlue-git/HowToYocto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToYocto" />
+</a>
+<a href="https://github.com/JohnBlue-git/MyYoctoPlaygroundLayer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=MyYoctoPlaygroundLayer" />
 </a>
 <a href="https://github.com/JohnBlue-git/CMakeVariable_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CMakeVariable_Note" />
