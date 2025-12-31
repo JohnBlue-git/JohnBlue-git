@@ -2,6 +2,16 @@
 <h3 align="center">I am a software engineer from Taiwan</h3>
 
 
+<h3 align="left">Web related:</h3>
+
+<a href="https://github.com/JohnBlue-git/GolangConcurrencyDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=GolangConcurrencyDemo" />
+</a>
+<a href="https://github.com/JohnBlue-git/GolangOOP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=GolangOOP" />
+</a>
+
+
 
 <h3 align="left">Web related:</h3>
 
