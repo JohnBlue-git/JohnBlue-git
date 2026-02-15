@@ -4,6 +4,9 @@
 
 <h3 align="left">Golang related:</h3>
 
+<a href="https://github.com/JohnBlue-git/MultiFish">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=MultiFish" />
+</a>
 <a href="https://github.com/JohnBlue-git/GolangConcurrencyDemo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=GolangConcurrencyDemo" />
 </a>
