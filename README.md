@@ -71,7 +71,7 @@
 
 
 
-## $\color{#00ADD8}{\text{ Linux / Systemd / DBus / Git / ... notes }}$
+## $\color{#00ADD8}{\text{ Linux / Systemd / DBus / Git / ... Notes }}$
 
 <a align="center">Linux_Note<a/>
 <a href="https://github.com/JohnBlue-git/Linux_Note">
