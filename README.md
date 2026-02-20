@@ -1,3 +1,14 @@
+<style>
+h1, h2, h3, h4, h5, h6 {
+  color: #00ADD8;
+}
+</style>
+<style>
+a {
+  color: #1976d2;
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm JohnBlue</h1>
 <h3 align="center">I am a software engineer from Taiwan</h3>
 
