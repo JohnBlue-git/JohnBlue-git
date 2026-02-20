@@ -1,11 +1,6 @@
 <style>
 h1, h2, h3, h4, h5, h6 {
-  color: #00ADD8;
-}
-</style>
-<style>
-a {
-  color: #1976d2;
+  color: #00ADD8 !important;
 }
 </style>
 
