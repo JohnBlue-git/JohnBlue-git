@@ -4,6 +4,7 @@
 
 <h3 align="left">Golang related:</h3>
 
+<a align="center">MultiFish<a/>
 <a href="https://github.com/JohnBlue-git/MultiFish">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=MultiFish" />
 </a>
