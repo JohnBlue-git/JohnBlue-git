@@ -1,17 +1,10 @@
 
-<html>
-<head>
-<style>
-  h1 {
-    color: green;
-  }
-</style>
-</head>
-
-<h1 align="center">Hi 👋, I'm JohnBlue </h1>
+<h1 align="center">Hi 👋, I'm John Blue</h1>
 <h3 align="center">I am a software engineer from Taiwan</h3>
 
-<h3 align="left">Golang related:</h3>
+
+
+## $\color{#00ADD8}{\text{ Golang related }}$
 
 <a align="center">MultiFish<a/>
 <a href="https://github.com/JohnBlue-git/MultiFish">
@@ -30,7 +23,7 @@
 
 
 
-<h3 align="left">Web related:</h3>
+## $\color{#00ADD8}{\text{ Backend related }}$
 
 <a align="center">K8s-Flask-Postgres<a/>
 <a href="https://github.com/JohnBlue-git/K8s-Flask-Postgres">
@@ -57,19 +50,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=NodejsWebApi-VersionZero" />
 </a>
 
-<a align="center">PlayerRecordWebApi<a/>
-<a href="https://github.com/JohnBlue-git/PlayerRecordWebApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=PlayerRecordWebApi" />
-</a>
-
-<a align="center">ChessBoardGameWeb<a/>
-<a href="https://github.com/JohnBlue-git/ChessBoardGameWeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ChessBoardGameWeb" />
-</a>
 
 
-
-<h3 align="left">Thread programming related:</h3>
+## $\color{#00ADD8}{\text{ Thread programming related }}$
 
 <a align="center">ConcurrencyDemo<a/>
 <a href="https://github.com/JohnBlue-git/ConcurrencyDemo">
@@ -88,7 +71,7 @@
 
 
 
-<h3 align="left">Linux / DBus / Git / ... related:</h3>
+## $\color{#00ADD8}{\text{ Linux / Systemd / DBus / Git / ... notes }}$
 
 <a align="center">Linux_Note<a/>
 <a href="https://github.com/JohnBlue-git/Linux_Note">
@@ -130,10 +113,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToDBus" />
 </a>
 
-
-
-<h3 align="left">Build System related:</h3>
-
 <a align="center">BuildSystem_Note<a/>
 <a href="https://github.com/JohnBlue-git/BuildSystem_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
@@ -142,11 +121,6 @@
 <a align="center">HowToYocto<a/>
 <a href="https://github.com/JohnBlue-git/HowToYocto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToYocto" />
-</a>
-
-<a align="center">MyYoctoPlaygroundLayer<a/>
-<a href="https://github.com/JohnBlue-git/MyYoctoPlaygroundLayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=MyYoctoPlaygroundLayer" />
 </a>
 
 <a align="center">CMakeVariable_Note<a/>
