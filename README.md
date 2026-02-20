@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm John Blue</h1>
 <h3 align="center">I am a software engineer from Taiwan</h3>
+<h3 align="center">Contact: P16081203@gs.ncku.edu.tw</h3>
 
 
 
