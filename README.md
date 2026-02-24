@@ -89,11 +89,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Systemctl_Note" />
 </a>
 
-<a align="center">MyTarPackageScript<a/>
-<a href="https://github.com/JohnBlue-git/MyTarPackageScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=MyTarPackageScript" />
-</a>
-
 <a align="center">Git_Note<a/>
 <a href="https://github.com/JohnBlue-git/Git_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Git_Note" />
@@ -114,14 +109,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToDBus" />
 </a>
 
-<a align="center">BuildSystem_Note<a/>
-<a href="https://github.com/JohnBlue-git/BuildSystem_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
-</a>
-
 <a align="center">HowToYocto<a/>
 <a href="https://github.com/JohnBlue-git/HowToYocto">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToYocto" />
+</a>
+
+<a align="center">BuildSystem_Note<a/>
+<a href="https://github.com/JohnBlue-git/BuildSystem_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
 </a>
 
 <a align="center">CMakeVariable_Note<a/>
