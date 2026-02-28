@@ -5,7 +5,7 @@
 
 
 
-## $\color{#00ADD8}{\text{ Golang related }}$
+## $\color{#00ADD8}{\text{ Golang projects }}$
 
 <a align="center">MultiFish<a/>
 <a href="https://github.com/JohnBlue-git/MultiFish">
@@ -24,7 +24,7 @@
 
 
 
-## $\color{#00ADD8}{\text{ Backend related }}$
+## $\color{#00ADD8}{\text{ Backend projects }}$
 
 <a align="center">K8s-Flask-Postgres<a/>
 <a href="https://github.com/JohnBlue-git/K8s-Flask-Postgres">
@@ -46,33 +46,38 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=NodejsWebApi-VersionOne" />
 </a>
 
-<a align="center">NodejsWebApi-VersionZero<a/>
-<a href="https://github.com/JohnBlue-git/NodejsWebApi-VersionZero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=NodejsWebApi-VersionZero" />
+
+
+## $\color{#00ADD8}{\text{ Yocto / OpenBMC / DBus / ... }}$
+
+<a align="center">HowToYocto<a/>
+<a href="https://github.com/JohnBlue-git/HowToYocto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToYocto" />
+</a>
+
+<a align="center">HowToSDBusPlus<a/>
+<a href="https://github.com/JohnBlue-git/HowToSDBusPlus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToSDBusPlus" />
+</a>
+
+<a align="center">HowToDBus<a/>
+<a href="https://github.com/JohnBlue-git/HowToDBus">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToDBus" />
+</a>
+
+<a align="center">BuildSystem_Note<a/>
+<a href="https://github.com/JohnBlue-git/BuildSystem_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
 </a>
 
 
 
-## $\color{#00ADD8}{\text{ Thread programming related }}$
+## $\color{#00ADD8}{\text{ Linux / Systemd / ... }}$
 
-<a align="center">ConcurrencyDemo<a/>
-<a href="https://github.com/JohnBlue-git/ConcurrencyDemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ConcurrencyDemo" />
+<a align="center">HowToLinuxDomainSockets<a/>
+<a href="https://github.com/JohnBlue-git/HowToLinuxDomainSockets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToLinuxDomainSockets" />
 </a>
-
-<a align="center">Transmission-Speed-Test<a/>
-<a href="https://github.com/JohnBlue-git/Transmission-Speed-Test">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Transmission-Speed-Test" />
-</a>
-
-<a align="center">Process-Thread-Sync_Note<a/>
-<a href="https://github.com/JohnBlue-git/Process-Thread-Sync_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Process-Thread-Sync_Note" />
-</a>
-
-
-
-## $\color{#00ADD8}{\text{ Linux / Systemd / DBus / Git / ... Notes }}$
 
 <a align="center">Linux_Note<a/>
 <a href="https://github.com/JohnBlue-git/Linux_Note">
@@ -89,49 +94,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Systemctl_Note" />
 </a>
 
-<a align="center">Git_Note<a/>
-<a href="https://github.com/JohnBlue-git/Git_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Git_Note" />
-</a>
+
+
+## $\color{#00ADD8}{\text{ Repo Manifest / Git / ... }}$
 
 <a align="center">HowToRepoManifest<a/>
 <a href="https://github.com/JohnBlue-git/HowToRepoGit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToRepoManifest" />
 </a>
 
-<a align="center">HowToSDBusPlus<a/>
-<a href="https://github.com/JohnBlue-git/HowToSDBusPlus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToSDBusPlus" />
-</a>
-
-<a align="center">HowToDBus<a/>
-<a href="https://github.com/JohnBlue-git/HowToDBus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToDBus" />
-</a>
-
-<a align="center">HowToYocto<a/>
-<a href="https://github.com/JohnBlue-git/HowToYocto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToYocto" />
-</a>
-
-<a align="center">BuildSystem_Note<a/>
-<a href="https://github.com/JohnBlue-git/BuildSystem_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
-</a>
-
-<a align="center">CMakeVariable_Note<a/>
-<a href="https://github.com/JohnBlue-git/CMakeVariable_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CMakeVariable_Note" />
-</a>
-
-<a align="center">CMakeGoogleTest<a/>
-<a href="https://github.com/JohnBlue-git/CMakeGoogleTest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CMakeGoogleTest" />
-</a>
-
-<a align="center">MesonGoogleTest<a/>
-<a href="https://github.com/JohnBlue-git/MesonGoogleTest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=MesonGoogleTest" />
+<a align="center">Git_Note<a/>
+<a href="https://github.com/JohnBlue-git/Git_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Git_Note" />
 </a>
 
 
