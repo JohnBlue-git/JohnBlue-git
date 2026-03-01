@@ -116,14 +116,17 @@
 
 
 ## $\color{#00ADD8}{\text{ Coding Languages }}$
+
 <a align="center">BuildSystem_Note<a/>
 <a href="https://github.com/JohnBlue-git/BuildSystem_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
 </a>
+
 <a align="center">CXX_Note<a/>
 <a href="https://github.com/JohnBlue-git/CXX_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CXX_Note" />
 </a>
+
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
