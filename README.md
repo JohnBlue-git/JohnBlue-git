@@ -5,7 +5,7 @@
 
 
 
-## $\color{#00ADD8}{\text{ Golang projects }}$
+## $\color{#00ADD8}{\text{ Golang Projects }}$
 
 <a align="center">MultiFish<a/>
 <a href="https://github.com/JohnBlue-git/MultiFish">
@@ -24,7 +24,7 @@
 
 
 
-## $\color{#00ADD8}{\text{ Backend projects }}$
+## $\color{#00ADD8}{\text{ Backend Projects }}$
 
 <a align="center">K8s-Flask-Postgres<a/>
 <a href="https://github.com/JohnBlue-git/K8s-Flask-Postgres">
@@ -65,9 +65,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToDBus" />
 </a>
 
-<a align="center">BuildSystem_Note<a/>
-<a href="https://github.com/JohnBlue-git/BuildSystem_Note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
+<a align="center">GoVarlink<a/>
+<a href="https://github.com/JohnBlue-git/GoVarlink">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=GoVarlink" />
 </a>
 
 
@@ -89,9 +89,28 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=LinuxKernel_Note" />
 </a>
 
+<a align="center">Linux_Partition_LVM_Note<a/>
+<a href="https://github.com/JohnBlue-git/Linux_Partition_LVM_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Linux_Partition_LVM_Note" />
+</a>
+
 <a align="center">Systemctl_Note<a/>
 <a href="https://github.com/JohnBlue-git/Systemctl_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Systemctl_Note" />
+</a>
+
+
+
+## $\color{#00ADD8}{\text{ Code Languages }}$
+
+<a align="center">BuildSystem_Note<a/>
+<a href="https://github.com/JohnBlue-git/BuildSystem_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BuildSystem_Note" />
+</a>
+
+<a align="center">CXX_Note<a/>
+<a href="https://github.com/JohnBlue-git/CXX_Note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CXX_Note" />
 </a>
 
 
