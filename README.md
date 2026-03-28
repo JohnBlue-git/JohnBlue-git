@@ -216,6 +216,11 @@
 
 
 
+## $\color{#00ADD8}{\text{ Languages }}$
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+
+
+
 <h3 align="left">
     This README.md is generated via
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">Anuraghazra's Github-Readme-Stats</a>
