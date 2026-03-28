@@ -217,7 +217,7 @@
 
 
 ## $\color{#00ADD8}{\text{ Languages }}$
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBlue-git\&layout=compact)
 
 
 
