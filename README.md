@@ -91,6 +91,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToLinuxDomainSockets" />
 </a>
 
+<!-- <a align="center">RemoteServiceMonitor<a/> -->
+<a href="https://github.com/JohnBlue-git/RemoteServiceMonitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=RemoteServiceMonitor" />
+</a>
+
 <!-- <a align="center">Linux_Note<a/> -->
 <a href="https://github.com/JohnBlue-git/Linux_Note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=Linux_Note" />
