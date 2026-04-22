@@ -147,6 +147,37 @@
 
 
 
+## $\color{#00ADD8}{\text{ Tools and Framework }}$
+<p align="left">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/openbmc/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/13670043?s=200&v=4" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://github.com/gin-gonic" target="_blank" rel="noreferrer">
+      <img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" alt="gin" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+    </a>
+</p>
+
+
+
+## $\color{#00ADD8}{\text{ Coding Languages }}$
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -180,37 +211,6 @@
     </a>
     <a href="https://mesonbuild.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Meson_%28software%29_logo_2019.svg/2560px-Meson_%28software%29_logo_2019.svg.png" alt="meson" width="160" height="40"/>
-    </a>
-</p>
-
-
-
-## $\color{#00ADD8}{\text{ Tools and Framework }}$
-<p align="left">
-<p align="left">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.yoctoproject.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.yoctoproject.org/wp-content/uploads/sites/32/2023/09/YoctoProject_Logo_RGB_White_small.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/openbmc/" target="_blank" rel="noreferrer">
-        <img src="https://avatars.githubusercontent.com/u/13670043?s=200&v=4" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/gin-gonic" target="_blank" rel="noreferrer">
-      <img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" alt="gin" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
     </a>
 </p>
 
