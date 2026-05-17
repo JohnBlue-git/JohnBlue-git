@@ -112,6 +112,17 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=CXX_Note" />
 </a>
 
+<!-- <a align="center">ProducerConsumerDesign<a/> -->
+<a href="https://github.com/JohnBlue-git/ProducerConsumerDesign">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=ProducerConsumerDesign" />
+</a>
+
+<!-- <a align="center">BasicThreadLock<a/> -->
+<a href="https://github.com/JohnBlue-git/BasicThreadLock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BasicThreadLock" />
+</a>
+
+
 
 ## $\color{#00ADD8}{\text{ Golang }}$
 
