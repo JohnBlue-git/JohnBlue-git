@@ -106,7 +106,7 @@
 
 <!-- <a align="center">HTTPS_Notes<a/> -->
 <a align="center">HTTPS_Notes<a/>
-<a href="/https://github.com/JohnBlue-git/HTTPS_Notes">
+<a href="https://github.com/JohnBlue-git/HTTPS_Notes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HTTPS_Notes" />
 </a>
 
