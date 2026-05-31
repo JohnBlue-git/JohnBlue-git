@@ -156,6 +156,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=BasicThreadLock" />
 </a>
 
+<!-- <a align="center"><a/> -->
+<a align="center">HowToShareMemory<a/>
+<a href="https://github.com/JohnBlue-git/HowToShareMemory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=HowToShareMemory" />
+</a>
+
+<!-- <a align="center">LoadBalanceProcessing<a/> -->
+<a align="center">LoadBalanceProcessing<a/>
+<a href="https://github.com/JohnBlue-git/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnBlue-git&repo=LoadBalanceProcessing" />
+</a>
+
 
 ## $\color{#00ADD8}{\text{ Golang }}$
 
@@ -319,7 +331,7 @@
 
 
 ## $\color{#00ADD8}{\text{ Languages }}$
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBlue-git\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBlue-git\&layout=compact)
 
 
 <h3 align="left">
